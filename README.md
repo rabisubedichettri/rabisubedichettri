@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CI/CD, Automation and Dockering**
 
-- 👨‍💻 All of my projects are available at [https://rabisubedichettri.github.io/my-blog/tabs/projects.html](https://rabisubedichettri.com.np/my-blog/tabs/projects.html)
+- 👨‍💻 All of my projects are available at [https://rabisubedichettri.com.np/tabs/projects.html](https://rabisubedichettri.com.np/tabs/projects.html)
 
 - 📝 I regularly write articles on [cloud](cloud)
 
