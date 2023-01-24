@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rabisubedichettri.com.np/tabs/projects.html](https://rabisubedichettri.com.np/tabs/projects.html)
 
-- 📝 I regularly write articles on [cloud](cloud)
+- 📝 I regularly write articles on cloud
 
 - 💬 Ask me about **docker,django,linux and jenkins**
 
