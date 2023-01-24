@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **docker,django,linux and jenkins**
 
-- 📄 Know about my experiences [https://rabisubedichettri.github.io/online-cv/](https://rabisubedichettri.github.io/online-cv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
